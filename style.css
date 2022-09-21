@@ -1,0 +1,36 @@
+.bloco{
+    width: 300px;
+    margin-bottom: 10px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+
+}
+p{
+    margin-top: -15px;
+}
+body{
+    background-color: cornflowerblue;
+}
+#bloco-1{
+    background-color: darkorange;
+    color: white;
+    border: solid orange 5px;
+}
+#bloco-2{
+    background-color: seagreen;
+    color: white;
+    border: solid mediumseagreen 5px ;
+}
+#bloco-3{
+    background-color: rgb(28, 71, 28);
+    color: white;
+    border: dashed rgb(82, 199, 82) 5px;
+}
+#bloco-4{
+    background-color: firebrick;
+    color: white;
+    border: dashed salmon 5px;
+}
+main{
+    font-family: Helvetica;
+}
